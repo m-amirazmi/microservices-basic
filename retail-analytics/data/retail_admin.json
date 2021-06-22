@@ -1,0 +1,432 @@
+{
+  "15ehMKQALeeeBxWV823lBgptRy32" : {
+    "email" : "mertestaccount@gmail.com",
+    "name" : "Amer Test Account",
+    "retail_id" : "-MW2KT-KC3OZI2E_a2cF",
+    "retail_main" : "-MW2KT-J2p2SIPKmjVqz",
+    "role" : "HQ",
+    "timestamp_created" : 1617601898942
+  },
+  "18VFrpvrEQhWahM3QA6MgRrf9CG2" : {
+    "email" : "kedaiamer01@gmail.com",
+    "name" : "kedaiamer01@gmail.com",
+    "retail_id" : "-MOmHOOmbCf5vPo2cDOk",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1608235201889
+  },
+  "1QyoYaN6BffjEcgqPiNxxwuecN62" : {
+    "billing_account" : {
+      "-Mb9khz6OT68NLCF40JU" : true
+    },
+    "email" : "kedaiamer@gmail.com",
+    "name" : "Amir Azmi",
+    "retail_id" : "-MHFgGL_3o7H_GYid4oI",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1600155362563
+  },
+  "2WhAE982Yyg0EzhBD8ZIKf60XD72" : {
+    "email" : "maegarage18@gmail.com",
+    "name" : "Ismail",
+    "retail_id" : "-M55o8qOfUu8KO41_A--",
+    "retail_main" : "-M55o8qN7HgA3qEYKEFO",
+    "role" : "HQ",
+    "timestamp_created" : 1587104891970
+  },
+  "2i8jBFXaxTQXOI6SZOqgdps5N523" : {
+    "email" : "sabrinaisthebest@gmail.com",
+    "name" : "HQ Sabrina is the best",
+    "retail_id" : "-M2kiM54ZgGrxT3eqmzA",
+    "retail_main" : "-M2kiM54ZgGrxT3eqmz9",
+    "role" : "HQ",
+    "timestamp_created" : 1584587396393
+  },
+  "3auhc2XmoNPhtC8jI629fKUSbEj2" : {
+    "email" : "iamamer@email.com",
+    "name" : "This is a Test!",
+    "retail_id" : "-Ma3_g8H7C2aVRONp-eL",
+    "retail_main" : "-Ma3_g8H7C2aVRONp-eK",
+    "role" : "HQ",
+    "timestamp_created" : 1621809240104
+  },
+  "8myBS7jsFkSLiACyHu2Wtq9zyC23" : {
+    "email" : "taukeh_baru@gmail.com",
+    "name" : "Taukeh Baru",
+    "retail_id" : "-Mb9hJ23dx2-m27hXrIk",
+    "retail_main" : "-Mb9hJ23dx2-m27hXrIj",
+    "role" : "HQ",
+    "timestamp_created" : 1622603548586
+  },
+  "959ptjMKkOZnVZkx7wdcEjgco5F3" : {
+    "email" : "taukeh_sabrina@gmail.com",
+    "name" : "Taukeh Sabrina",
+    "retail_id" : "-M27HAf_53GJngloHI4W",
+    "retail_main" : "-M27HAfY6i_h6bxS75dk",
+    "role" : "HQ",
+    "timestamp_created" : 1583908578695
+  },
+  "AqxeIR6DE0Q57pkbj4K4IIlA5842" : {
+    "email" : "Testsukasuka@test.com",
+    "name" : "Nor Safiq ",
+    "retail_id" : "-McJ41kamV9LPENSqRTA",
+    "retail_main" : "-McJ41kamV9LPENSqRT9",
+    "role" : "HQ",
+    "timestamp_created" : 1623834506066
+  },
+  "AujMxX841fa8s5IpMg8ZPmxPrEM2" : {
+    "email" : "amertest@gmail.com",
+    "name" : "Amir Azmi",
+    "retail_id" : "-MHJSOg3R4frQIRaXWbt",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1600218576465
+  },
+  "B4qCdymqhTMRJk3KLvspAG2pK4R2" : {
+    "email" : "masteradmin_nasreensworkshop@email.com",
+    "name" : "Master Admin",
+    "retail_id" : [ "-LyX8_w8hVJO54Q8MclY", "-M0WxUkzF4VFDgndONf2", "-M0WzXwo3L1npcbFAedZ", "-MCtvNAOMhdkDCZsc2KT", "-MHFTjKHHTi5OLSp0ilb", "-MHFgGL_3o7H_GYid4oI", "-MHFh78kAPFM0JNqsbVc", "-MHFidAxbtsrqoBmihuV", "-MHIfRVF9DzRBbcwrQhM", "-MHIgNfQq4hqtQuIHmzP", "-MHJSOg3R4frQIRaXWbt", "-MHJSofpprU4d8_FjIQO", "-MHuTv8XpRCJTS_j23MV", "-MM6PkGDKQLNu8ZufFHS", "-MMt7BKZaEnuGrCS5cTY", "-MMxvWosMlrL13JxByfb", "-MNF8y30vg8J8hEBVqRy", "-MOmHOOmbCf5vPo2cDOk" ],
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Master",
+    "timestamp_created" : 1620014005488
+  },
+  "BE4BupFu60Zd1rW0N67ERNba2AN2" : {
+    "email" : "husinmisa@gmail.com",
+    "name" : "Husin Mohd Din",
+    "retail_id" : "-M55WNeDLVuDFTM_r4yH",
+    "retail_main" : "-M55WNeClKgXQQcfl87w",
+    "role" : "HQ",
+    "timestamp_created" : 1587099898075
+  },
+  "DX1qWMbNhzVgqvCu4AFjr37jYxe2" : {
+    "email" : "not_covid20@gmail.com",
+    "name" : "Covid 20",
+    "retail_id" : "-M3AjozpeliyRWVKMx1x",
+    "retail_main" : "-M1PEqXQoErrbXK7Hfsq",
+    "role" : "Outlet",
+    "timestamp_created" : 1585120124590
+  },
+  "DhLJpVGD23R3R0wlJwnYVMc6Pbk1" : {
+    "email" : "taukeh_nasreen3@gmail.com",
+    "name" : "Nasreen Amalina Binti Abdul Razak",
+    "retail_id" : "-MHuTv8XpRCJTS_j23MV",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1600856538457
+  },
+  "DlrNDfjjJAbVpVaTTscCYHBMZt43" : {
+    "billing_account" : {
+      "-Mb8DnplLwpnhbUXzci4" : true
+    },
+    "email" : "merkp12@gmail.com",
+    "name" : "amer",
+    "retail_id" : "-MCtvNAOMhdkDCZsc2KT",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1595478492916,
+    "timestamp_updated" : 1621808621165
+  },
+  "Eg1PrWAKEVUKRGi7qtz68EuqU3h1" : {
+    "email" : "fauzikamaruddin@gmail.com",
+    "name" : "Muhammad fauzi",
+    "retail_id" : "-M5712SVuXRsXoEWCfEh",
+    "retail_main" : "-M5712SUP9h8MZ5ac76h",
+    "role" : "HQ",
+    "timestamp_created" : 1587125284176
+  },
+  "EyVsPfeYrMMkZJNJMHXF7v2R3dA3" : {
+    "email" : "Furyauto27@gmail.com",
+    "name" : "Terrance Teh",
+    "retail_id" : "-M4WvIE5Igw_qf6fUd7N",
+    "retail_main" : "-M4WvIE4baDQ55qCigBl",
+    "role" : "HQ",
+    "timestamp_created" : 1586486556477
+  },
+  "FYwz3XstLweDHiXO8LjSGflsphP2" : {
+    "email" : "masteradmin2@email.com",
+    "name" : "MA Amir",
+    "retail_id" : "master",
+    "retail_main" : "-MY3AtDSmogXH5EotvNB",
+    "role" : "Master",
+    "timestamp_created" : 1618292661072
+  },
+  "HAgdfveS8JQcGeD0dB5qwoquGzr2" : {
+    "email" : "demo@yahoo.com",
+    "name" : "Demo Admin",
+    "retail_id" : "-MSlpppvbrEDY-Px3asJ",
+    "retail_main" : "-MSlpppu3BCw3lNq6s9Z",
+    "role" : "HQ",
+    "timestamp_created" : 1612522719184
+  },
+  "J6txzGheIcUC8ONQpZfOdyNitdp1" : {
+    "email" : "taukeh_nasreen1@gmail.com",
+    "name" : "Kembar Nasreen",
+    "retail_id" : "-LyX8_w8hVJO54Q8MclY",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "HQ",
+    "timestamp_created" : 1582191489701,
+    "timestamp_updated" : 1622604591819
+  },
+  "JAJYBZfEQsN8TIaoOZDC7KquDIs2" : {
+    "email" : "reitermotorsport@hotmail.com",
+    "name" : "Zainudin",
+    "retail_id" : "-M5AHgxvWNG81Yqso9Xu",
+    "retail_main" : "-M5AHgxvWNG81Yqso9Xt",
+    "role" : "HQ",
+    "timestamp_created" : 1587179914018
+  },
+  "Muag8sMCDicWGhSqEsmXTvKUUCA2" : {
+    "email" : "irma@serv.my",
+    "name" : "Irma Test",
+    "retail_id" : "-MbI2y8Ol2RWKLaf34Y5",
+    "retail_main" : "-MbI2y8Nn4nGxLVM0azE",
+    "role" : "HQ",
+    "timestamp_created" : 1622743706314
+  },
+  "R4BC5tveYQPfbgIFrF4872s7YYC3" : {
+    "email" : "registeramir@email.com",
+    "name" : "Muhamad Amir",
+    "retail_id" : "-Ma3_g8H7C2aVRONp-eL",
+    "retail_main" : "-Ma3_g8H7C2aVRONp-eK",
+    "role" : "HQ",
+    "timestamp_created" : 1621427143837
+  },
+  "S8wJkayoaJOyF2chHGs2hy4QvZH2" : {
+    "email" : "nasreenrzk2@gmail.com",
+    "name" : "Nasreen",
+    "retail_id" : "-LyX8_w8hVJO54Q8MclY",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1588758002361
+  },
+  "SAaf8ZaPJpVSaHTBiBiIuXg8lCq2" : {
+    "email" : "hairi.bakemonojgarage@gmail.com",
+    "name" : "Suhairil Bazli",
+    "retail_id" : "-M4nbKML9lzFN1Ibx7Je",
+    "retail_main" : "-M4nbKMJ2orH3AKEOg7c",
+    "role" : "HQ",
+    "timestamp_created" : 1586782707580
+  },
+  "UYKh3jQNXkMJ76ZX9dF7Al4PRlQ2" : {
+    "email" : "merazmi@gmail.com",
+    "name" : "Merazmi",
+    "retail_id" : "-MHFTjKHHTi5OLSp0ilb",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1600151830325
+  },
+  "V9F3NA2j72M839z5wSbZmPBxkZW2" : {
+    "email" : "hopejadi@gmail.com",
+    "name" : "Amir Azmi",
+    "retail_id" : "-MHJSofpprU4d8_FjIQO",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1600218682563
+  },
+  "Vj9NPqCA9sTAjRT0tUaJXlo2ij53" : {
+    "email" : "arisgarage18@gmail.com",
+    "name" : "Arif Adam",
+    "retail_id" : "-M4qdAWbqCiS6TZLK-_L",
+    "retail_main" : "-M4qdAWaCSZu8CwSLPr4",
+    "role" : "HQ",
+    "timestamp_created" : 1586833499911
+  },
+  "VwsJMBDivcU6YIwVGwEXTrxtkEr2" : {
+    "email" : "meratesthq@gmail.com",
+    "name" : "KedaiAmerHQ",
+    "retail_id" : "-MW2KT-KC3OZI2E_a2cF",
+    "retail_main" : "-MW2KT-J2p2SIPKmjVqz",
+    "role" : "HQ",
+    "timestamp_created" : 1616037474354
+  },
+  "XFH9o8Hp6MaUnNwYuZVWLKXCFUE3" : {
+    "email" : "info@umairagroup.com",
+    "name" : "Shahrizal",
+    "retail_id" : "-M5AGhmD51CgVZ3SCGoe",
+    "retail_main" : "-M5AGhmD51CgVZ3SCGod",
+    "role" : "HQ",
+    "timestamp_created" : 1587179689415
+  },
+  "XTarHv57aGhm0YUV2bJvcfQuh6W2" : {
+    "email" : "ariefpomen@gmail.com",
+    "name" : "Arief Pomen",
+    "retail_id" : "-M2kl9cOa0Cx63eEGAaA",
+    "retail_main" : "-M2kl9cOa0Cx63eEGAa9",
+    "role" : "HQ",
+    "timestamp_created" : 1584587725530
+  },
+  "YmM5N6jkj1hSGPtZ9vhhkFpnayy2" : {
+    "email" : "safiq1@gmail.com",
+    "name" : "Nor Safiq",
+    "retail_id" : "-M4YWbp0ebY3GgjWHLt6",
+    "retail_main" : "-M4YWbp-4QdYlx_VgD1B",
+    "role" : "HQ",
+    "timestamp_created" : 1586512841314
+  },
+  "ZGVM5hHZ6KTvhCvcQ6yRoLE1Qnv2" : {
+    "email" : "adikariefpomen@gmail.com",
+    "name" : "Adik Arief Pomen",
+    "retail_id" : "-M2kr3cmyFdxpl1lkOQI",
+    "retail_main" : "-M2kl9cOa0Cx63eEGAa9",
+    "role" : "Outlet",
+    "timestamp_created" : 1584588936731
+  },
+  "apJFEacBCFeJRL48vLfxFkgRADC3" : {
+    "email" : "masteradmin2@email.com",
+    "name" : "MA Amir 2",
+    "retail_id" : [ "-MY3AtDSmogXH5EotvNC", "-MYC78_G_JUTnkPMJdCU" ],
+    "retail_main" : "-MY3AtDSmogXH5EotvNB",
+    "role" : "Master",
+    "timestamp_created" : 1618319311690
+  },
+  "bN3jkeY3UHUljrD4qHfa3r2RaEr1" : {
+    "billing_account" : {
+      "-Mb2lENh_Ol01h18EO5G" : true
+    },
+    "email" : "taukeh_nasreen@gmail.com",
+    "name" : "Taukeh besar",
+    "phone" : "0172577440",
+    "retail_id" : "-LyX8_w8hVJO54Q8MclY",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "HQ",
+    "timestamp_created" : 1579064823803
+  },
+  "dhshgzmFWvOr363J32uR07SQhU62" : {
+    "email" : "testjap@gmail.com",
+    "name" : "Amir Azmi",
+    "retail_id" : "-MHFidAxbtsrqoBmihuV",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1600155983263
+  },
+  "dvrkQZixfyVzTjmi3J0LUF71eeM2" : {
+    "email" : "taukeh_nasreen2@gmail.com",
+    "name" : "Triplet Nasreen",
+    "retail_id" : "-M0WzXwo3L1npcbFAedZ",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1582192016147
+  },
+  "e66NAJ1BWyT83MtU1O9p6uM8rX02" : {
+    "email" : "not_covid19@gmail.com",
+    "name" : "SAYA BUKAN VIRUS",
+    "retail_id" : "-M1PEqXRil2kO50Vbsim",
+    "retail_main" : "-M1PEqXQoErrbXK7Hfsq",
+    "role" : "HQ",
+    "timestamp_created" : 1583136321183
+  },
+  "eHS4JU5o3oRFzdfKohMWYGPWS6h1" : {
+    "email" : "kedaibaru@gmail.com",
+    "name" : "kedaibaru",
+    "retail_id" : "-MNF8y30vg8J8hEBVqRy",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1606588826396
+  },
+  "hsdtT8asJnMkzaiN2YAgvvRkg8k2" : {
+    "email" : "lasttry@gmail.com",
+    "name" : "Amir Azmi",
+    "retail_id" : "-MHIgNfQq4hqtQuIHmzP",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1600205723065
+  },
+  "iLp46YRsE0QyvscdeEJysr4thcW2" : {
+    "email" : "kedaimotoamer@gmail.com",
+    "name" : "Amir Azmi",
+    "retail_id" : "-MHIfRVF9DzRBbcwrQhM",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1600205508915
+  },
+  "kJUrdwWJ5MZzVRI7boKD9IXfSOu1" : {
+    "email" : "mascproshop88@gmail.com",
+    "name" : "Sabariah",
+    "retail_id" : "-M5ABqTMxSi4ThRwamD9",
+    "retail_main" : "-M5ABqTLnOaReoOwHGwH",
+    "role" : "HQ",
+    "timestamp_created" : 1587178411586
+  },
+  "lYxRBxf42AVxGArWxpZNAbFq6M63" : {
+    "email" : "nasreenrzk@gmail.com",
+    "name" : "Nasreen",
+    "retail_id" : "-M0WzXwo3L1npcbFAedZ",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1592809184133,
+    "timestamp_updated" : 1622604558226
+  },
+  "mfWxAWxAVfdn8ZXmOB3wEQWsmq63" : {
+    "email" : "asrafariffzaida@gmail.com",
+    "name" : "Mohd Asraf Ariff Bin Mohd Zaida",
+    "retail_id" : "-McDF1v26ADXZH-0wBto",
+    "retail_main" : "-McDF1v26ADXZH-0wBtn",
+    "role" : "HQ",
+    "timestamp_created" : 1623736727374
+  },
+  "vExkuGnbGHdJz1SJdgzI1dmWtWJ3" : {
+    "email" : "hrautoservicesupply@gmail.com",
+    "name" : "HARIANTO",
+    "retail_id" : "-M5AEDgJRLP41vC3brpP",
+    "retail_main" : "-M5AEDgJRLP41vC3brpO",
+    "role" : "HQ",
+    "timestamp_created" : 1587179122914
+  },
+  "wOFJMiuCEdWFJnxUjPR26DFRT0I2" : {
+    "email" : "ameradmin01@gmail.com",
+    "name" : "Amer",
+    "retail_id" : "-MOm8v8KNGHZ2x8QZgjI",
+    "retail_main" : "-MOm8v8IWi0CwUMfYso9",
+    "role" : "HQ",
+    "timestamp_created" : 1615525785629
+  },
+  "wUHuqF2758T6vBSYOihM8B1KuSb2" : {
+    "email" : "iamamertest@email.com",
+    "name" : "Test for IAM",
+    "retail_id" : "-LyX8_w8hVJO54Q8MclY",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "HQ",
+    "timestamp_created" : 1621809490989,
+    "timestamp_updated" : 1621809831376
+  },
+  "wWjH4wefO3NG2r1DDqVUlLlhM262" : {
+    "email" : "Subsgarage@gmail.com",
+    "name" : "0127818114",
+    "retail_id" : "-M4WifrGcJw8u9BjbE85",
+    "retail_main" : "-M4WifrEw67r8nXi2a-j",
+    "role" : "HQ",
+    "timestamp_created" : 1586482805226
+  },
+  "x3w29k3uFXWxMkh2ahH0LXDfhh73" : {
+    "email" : "rashidbengkil1311@gmail.com",
+    "name" : "Mohd Rashid",
+    "retail_id" : "-M5AFdvJQpmtzCU_tET_",
+    "retail_main" : "-M5AFdvJQpmtzCU_tETZ",
+    "role" : "HQ",
+    "timestamp_created" : 1587179373616
+  },
+  "xVkzDcphJ9e5SGywK14iEg8BTl93" : {
+    "email" : "HQHVC@gmail.com",
+    "name" : "Hafiz Shukri",
+    "retail_id" : "-McIk6UfGjf1u1tsb6-c",
+    "retail_main" : "-McIk6UfGjf1u1tsb6-b",
+    "role" : "HQ",
+    "timestamp_created" : 1623829020726
+  },
+  "xm5k1bzWVAZ3eQCQadMpXiajs1x1" : {
+    "email" : "kedaimoto@gmail.com",
+    "name" : "Amir Azmi",
+    "retail_id" : "-MHFh78kAPFM0JNqsbVc",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1600155585763
+  },
+  "zSzbStQIvbQe1lxFhf4fzFEPQo03" : {
+    "email" : "haym@email.com",
+    "name" : "hayam",
+    "retail_id" : "-MM6PkGDKQLNu8ZufFHS",
+    "retail_main" : "-LyX8_w7fWPJDz8XK9ek",
+    "role" : "Outlet",
+    "timestamp_created" : 1605368491759
+  }
+}
