@@ -13,5 +13,10 @@ spec:
           backend:
             serviceName: hello
             servicePort: 5000
+        - path: /api/retails
+          pathType: Prefix
+          backend:
+            serviceName: retail
+            servicePort: 5001
 
 

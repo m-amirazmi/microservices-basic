@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: retail
+  namespace: default
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      run: retail
+  template:
+    metadata:
+      labels:
+        run: retail
+    spec:
+      containers:
+      - image: asia.gcr.io/docker-test-sandbox/demo/retail:0.0.1
+        name: retail
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: retail
+  namespace: default
+spec:
+  type: ClusterIP
+  selector:
+    run: retail
+  ports:
+  - protocol: TCP
+    port: 5001
+    targetPort: 5001
+    name: retail
